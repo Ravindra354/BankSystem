@@ -5,3 +5,4 @@ with the help of JAVA Swing
 login file would be the main running file for this project
 Made another sign up page for the project
 // Adding an ATM Background for better User Interface
+// Transaction Details can be checked with the help of withdrawl file

@@ -28,7 +28,7 @@ public class Deposit extends JFrame implements ActionListener {
         l3.add(label1);
 
         textField = new TextField();
-        textField.setBackground(new Color(65,125,128));
+        textField.setBackground(new Color(66,125,128));
         textField.setForeground(Color.WHITE);
         textField.setBounds(460,230,320,25);
         textField.setFont(new Font("Raleway", Font.BOLD,22));
